@@ -137,6 +137,7 @@ _TODO_
 
 ### Past Coaches
 - Jethro Nolen
+
 Jethro was the large chunk of ice in the J.T.S. Brown tumbler for over two years. Words won't do it justice in the first draft.
 
 ### Additional Guidance
@@ -162,11 +163,11 @@ This is ported from our Google Drive and a special shout-out to the following to
 
 ### Festivals
 - 2015, Chicago Improv Festival
-- 2015, Steelstacks Improv Festival *
+- 2015, Steelstacks Improv Festival :cry:
 - 2015, Pittsburgh Comedy Festival
 - 2016, Chicago Improv Festival
 
-* Accepted, unable to perform.
+:cry: Accepted, unable to perform.
 
 ### Videos
 If you've read all this and want still want more, we have a few of our videos available online.
