@@ -62,7 +62,7 @@ _Player 1: What I’m trying to say is…_
 _What everyone else will do to whatever Jerome writes in this document._
 
 #### Crow
-A group of off-stage teammates will begin an edit by entering the stage all speaking the same line of dialogue and/or performing the same action (e.g. a group of crows “CAWW”ing and flying across the stage, usually in a very gay way). On-stage teammates will join in and after a flurry of movement, a new group of players will be left on stage to begin a new scene.
+A group of off-stage teammates will begin an edit by entering the stage all speaking the same line of dialogue and/or performing the same action (e.g. a group of crows “CAWW”ing and flying across the stage). On-stage teammates will join in and after a flurry of movement, a new group of players will be left on stage to begin a new scene.
 
 #### edTV/Sliding Doors
 A teammate will begin a new scene by calling back to an older scene with an exact line of dialogue or action. We will then see a different way the scene could have gone, exploring new choices by the same characters. This edit has a tendency to be overused.
